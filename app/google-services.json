@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1087995218969",
+    "firebase_url": "https://fir-ml-efca1.firebaseio.com",
+    "project_id": "fir-ml-efca1",
+    "storage_bucket": "fir-ml-efca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087995218969:android:3cf6592b4cd4bca9",
+        "android_client_info": {
+          "package_name": "com.ekbana.firebaseml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087995218969-3vikmddau2j9ddbrt6a7pshp5rpalpoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ekbana.firebaseml",
+            "certificate_hash": "190763f02c9bb53087526b5a659e3433cbe4c506"
+          }
+        },
+        {
+          "client_id": "1087995218969-fud6p95u6567s4cop3upib2h9hm3snr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWD2ytJRLytYnHaXTuM2Jn-6x_UfWqJ-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087995218969-fud6p95u6567s4cop3upib2h9hm3snr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

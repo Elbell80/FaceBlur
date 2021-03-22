@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirebaseML</string>
+    <string name="enter_your_text_here">Enter your text here.</string>
+    <string name="language_not_supported">Language Not Supported</string>
+    <string name="choose_from_gallery">Choose from Gallery</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="cancel">Cancel</string>
+    <string name="Identify">Identify</string>
+    <string name="title">Title</string>
+    <string name="smart_reply">Smart Reply</string>
+    <string name="translate">Translate</string>
+</resources>
